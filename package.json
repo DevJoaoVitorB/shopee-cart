@@ -1,0 +1,26 @@
+{
+    "name": "shopee-cart",
+    "version": "1.0.0",
+    "description": "Logic Training Project – Shopee Cart",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DevJoaoVitorB/shopee-cart.git"
+    },
+    "keywords": [
+        "Shopee",
+        "Shopping Cart",
+        "Modularization"
+    ],
+    "author": "João Vitor B. - DevJoaoVitorB",
+    "license": "ISC",
+    "type": "module",
+    "bugs": {
+        "url": "https://github.com/DevJoaoVitorB/shopee-cart/issues"
+    },
+    "homepage": "https://github.com/DevJoaoVitorB/shopee-cart#readme"
+}
